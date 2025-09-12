@@ -1,1 +1,8 @@
+
 this is a new text in the branch B
+
+This is a document in the branch A
+
+My name is Leonel Campos and i am happy
+
+
